@@ -212,3 +212,39 @@
     align-self: center;
     justify-content: space-evenly;
 }
+
+.paragraph{
+    font-size: 13px;
+    padding: 25px;
+    text-align: center;
+}
+
+footer{
+    background-color: #171717;
+    padding: 50px;
+}
+
+.footercon{
+    display: flex;
+    justify-content: center;
+    column-gap: 25px;
+}
+
+.stores{
+    width: 190px;
+}
+
+.facebook{
+    background-color: white;
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 50%;
+}
+
+.lina{
+    color: white;
+}
+.lina:hover{
+    color: whitesmoke;
+    text-shadow: 1px 1px 10px red;
+}
